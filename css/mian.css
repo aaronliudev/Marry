@@ -697,11 +697,11 @@ body,html{
 }
 .textTimeMan{
     position: absolute;
-    left: 24%;
-    top: 89%;
+    left: 39%;
+    top: 91%;
     z-index: 10;
     color: #BF7BB5;
-    font-size:16px;
+    font-size:28px;
 }
 .textTimeWoman{
     position: absolute;
@@ -716,7 +716,7 @@ body,html{
     top: 86%;
     z-index: 10;
     color: #BF7BB5;
-    font-size:16px;
+    font-size:28px;
 }
 .textAddressWoman{
     position: absolute;
